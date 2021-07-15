@@ -5,7 +5,7 @@
 - :seedling: I’m currently learning everything to be an NLPer !
 - :runner: I have a passion for running and fitness !
 - :zap: Fun fact: I really enjoy myself watching old movies.
-- :email: How to reach me: zebgou@gmail.com
+- :email: How to reach me: zebgou[AT]gmail[dot]com
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 💬 Ask me about ... -->
 <!-- - 😄 Pronouns: ... -->
