@@ -2,10 +2,9 @@
 
 <!-- - ✨ -->
 - :school: I’m currently a Computer Science undergraduate student at BUPT.
-- :seedling: I’m currently learning everything to be an NLPer !
-- :runner: I have a passion for running and fitness !
-- :zap: Fun fact: I really enjoy myself watching old movies.
-- :email: How to reach me: zebgou[AT]gmail[dot]com
+- :seedling: I’m learning everything!
+- :runner: I have a passion for running and fitness!
+- :zap: Fun fact: I have discovered a truly marvelous fun fact, which this margin is too narrow to contain.
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 💬 Ask me about ... -->
 <!-- - 😄 Pronouns: ... -->
